@@ -7,7 +7,7 @@ interface Color {
 
 const color: Color = {
   r: 255,
-  g: 0,
+  g: 20,
   b: 0,
   a: 1, // Optional alpha channel
 }
